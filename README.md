@@ -1,4 +1,4 @@
-# frt_aakibkhan
+![bot bundle home azure](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/d32fabd8-73fc-46bc-9376-adb49884eea6)# frt_aakibkhan
 internship project
 Here is a link of my website please visit:-
 https://thankful-stone-0cb65eb10.3.azurestaticapps.net/
@@ -17,12 +17,9 @@ https://drive.google.com/file/d/1bxZIHO25n3yNL2ixQzwcpOKlFhekQOmm/view?usp=drive
 ![lang home](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/991751e7-0979-4c03-9ea1-1476cad05b76)
 2.Then create a bot using knowledge base in language service page.
 ![bot home](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/16c365bf-178b-4271-bbe0-67daf6d86427)
-3.
-4. Fill the reguarding details including resourse of your webapp click next.
-![a4](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/c3b4e853-4f12-4856-92cd-229903e259e9)
-5. Wait for the next page ,deployment gets started.
-![azure3](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/905e324e-932a-4476-b199-f6af3fb0b176)
-6. The completion page is then visible to you.
-![azure 2](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/45eb98d9-bb89-4d48-81fb-9f32065d605c)
-7. In the last page you will see the url of your deployed website.
-![azure1](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/b992d27e-ec9a-48e3-8cde-ddd524d5ffa0)
+3.Then we have a bundle of azure services for our bot and then we embed our bot into website.
+![bot bundle home azure](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/a9478a1e-56f3-43d1-b959-264aa2a0a4b8)
+4.The final look of our BOT after embedding BOT into website.
+![azure bot](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/2a6a7a5f-0453-4144-9b14-24cbd3e2befa)
+5.Now finally we can use and chat with BOT.
+![azure chat](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/c72a237c-bac4-406c-8529-2cbb9b2a0390)
