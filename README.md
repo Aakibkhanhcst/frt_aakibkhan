@@ -1,7 +1,7 @@
 # frt_aakibkhan
 internship project
 Here is a link of my website please visit:-
-https://thankful-stone-0cb65eb10.3.azurestaticapps.net/
+https://thankful-stone-0cb65eb10.3.azurestaticapps.net/ 
 Demo video link:-
 https://drive.google.com/file/d/1-ANXCGPQYZOODSmx9DcL8yNxy0c2cp-C/view?usp=drivesdk
 # HOMEPAGE
