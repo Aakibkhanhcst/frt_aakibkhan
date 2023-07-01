@@ -1,4 +1,4 @@
-![bot bundle home azure](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/d32fabd8-73fc-46bc-9376-adb49884eea6)# frt_aakibkhan
+# frt_aakibkhan
 internship project
 Here is a link of my website please visit:-
 https://thankful-stone-0cb65eb10.3.azurestaticapps.net/
