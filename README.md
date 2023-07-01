@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1bxZIHO25n3yNL2ixQzwcpOKlFhekQOmm/view?usp=drive
 ![courses](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/f243eca3-e75d-49bf-ade4-92394f25a526)
 # contact section
 ![contact](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/4090376e-1b48-4da2-9240-b62ffd58a246)
-# Azure deployment steps:-
+# Azure BOT deployment steps:-
 1.first create a language service and create a knowledge base for it.
 ![lang home](https://github.com/Aakibkhanhcst/frt_aakibkhan/assets/133381125/991751e7-0979-4c03-9ea1-1476cad05b76)
 2.Then create a bot using knowledge base in language service page.
