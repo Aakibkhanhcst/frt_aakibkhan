@@ -1,10 +1,9 @@
-# frt_aakibkhan
-internship project
-Here is a link of my website please visit:-
-https://thankful-stone-0cb65eb10.3.azurestaticapps.net/  
-# PLEASE NOTE:- 
+# frt_aakibkhan 
+#PLEASE NOTE :-  
 MY AZURE SUBSCRIPTION GOT FULLY EXAHAUSTED I BEG YOU TO EVALUATE MY PROJECT USING VIDEO DEMO AS THE LINK IS NOT AVAILABLE FOR NOW.  
-Demo video link:-
+Here is a link of my website please visit:-
+https://thankful-stone-0cb65eb10.3.azurestaticapps.net/
+# Demo video link:-
 https://drive.google.com/file/d/1-ANXCGPQYZOODSmx9DcL8yNxy0c2cp-C/view?usp=drivesdk  
 #NOTE:- PLEASE I BEG TO MY FRT PROJECT EVALUATOR THAT MY AZURE CREDIT IS EXHAUSTED BY MISTAKE ,SO PLEASE GIVE ME MY CERTIFICATE USING MY VIDEO DEMO,IAM WORKING ON IT FOR 4 MONTHS PLEASE HELP ME.  
 # HOMEPAGE
