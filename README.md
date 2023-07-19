@@ -1,8 +1,8 @@
 # frt_aakibkhan 
 #PLEASE NOTE :-  
 MY AZURE SUBSCRIPTION GOT FULLY EXAHAUSTED BECAUSE OF LONGER USE AND DELAYED EVALUATION  
-I BEG YOU TO EVALUATE MY PROJECT USING VIDEO DEMO AS THE LINK IS NOT AVAILABLE FOR NOW.
-OR VISIT: https://aakibkhanhcst.github.io/frt_aakibkhan/
+I BEG YOU TO EVALUATE MY PROJECT USING VIDEO DEMO AS THE LINK IS NOT AVAILABLE FOR NOW.  
+OR VISIT: https://aakibkhanhcst.github.io/frt_aakibkhan/  
 Here is a link of my deployed website:-
 https://thankful-stone-0cb65eb10.3.azurestaticapps.net/
 # Demo video link:-
